@@ -1,0 +1,6 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<InputEncoding>UTF-8</InputEncoding>
+<ShortName>小米</ShortName>
+<Description>小米搜索</Description>
+<Url type="text/html" template="http://search.mi.com/search_{searchTerms}"/>
+</OpenSearchDescription>
